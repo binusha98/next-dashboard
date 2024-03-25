@@ -1,7 +1,3 @@
-To beautify your README.md with icons, you can use icons from popular icon libraries like Font Awesome or Heroicons. Here's an updated template with icons:
-
----
-
 # Next.js Dashboard with CRUD Operations
 
 This project is a dashboard web application built with Next.js, featuring CRUD (Create, Read, Update, Delete) operations, search functions, and charts for data visualization. It uses PostgreSQL for the database and Tailwind CSS for styling. Users are required to log in before accessing the dashboard.
