@@ -19,7 +19,7 @@ This project is a dashboard web application built with Next.js, featuring CRUD (
 - ⚛️ **React**: JavaScript library for building user interfaces.
 - 🐘 **PostgreSQL**: Open-source relational database.
 - 🎨 **Tailwind CSS**: Utility-first CSS framework for styling.
-- ...: Any other technologies or libraries you've used.
+  
 
 ## Getting Started
 
